@@ -32,7 +32,7 @@ My approach is calm, intentional, and focused on clarity and emotional tone.
 |--------|-------------|------|
 | **Survey Form** | Basic HTML structure and form layout | https://lunadev-svg.github.io/survey-form/ |
 | **Tribute Page** | Semantic HTML and layout practice | https://lunadev-svg.github.io/tribute-page/ |
-| **Technical Documentation Page** | Multi-section documentation layout | *(link coming soon)* |
+| **Technical Documentation Page** | Multi-section documentation layout | https://lunadev-svg.github.io/technical-documentation-page/ |
 | **Product Landing Page** | Flexbox, grid, and responsive design | *(link coming soon)* |
 | **Personal Portfolio Page** | *(final project – in progress)* |  |
 
